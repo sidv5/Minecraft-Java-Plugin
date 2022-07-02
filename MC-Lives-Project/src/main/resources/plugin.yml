@@ -1,0 +1,3 @@
+main: com.mc.plugin.PluginStarter
+name: MCPluginStarter
+version: 0.0.1
